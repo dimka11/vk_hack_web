@@ -1,0 +1,49 @@
+@media (max-width: 900px) {
+    .form {
+        display:inline-block;
+        vertical-align: top;
+    }
+    .lnamec {
+        display: block;
+    }
+    .input {
+        position:absolute;
+        left:1%;
+    }
+
+    .send_btn {
+        width: 50%;
+    }
+
+}
+    .input {
+        display: block;
+        float: left;
+        width: 70px;
+        height: 15px;
+    }
+    
+    .langs {
+        text-align: center;
+    }
+    .title {
+        text-align: center;
+    }
+    .send_btn {
+        display: block;
+        text-align: center;
+        margin-left:auto;
+        margin-right:auto;
+        background: royalblue;
+    }
+    .input {
+        position:absolute;
+        left:6%;
+    }
+    .lname {
+        position: absolute;
+        left: 30%;
+    }
+
+
+
